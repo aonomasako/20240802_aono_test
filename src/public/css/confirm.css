@@ -1,0 +1,15 @@
+.contact-form__header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #996633;
+}
+
+.confirm-label__item {
+    margin: 0 auto;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}

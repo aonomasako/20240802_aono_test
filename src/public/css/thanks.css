@@ -1,0 +1,19 @@
+bady{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form__content--label {
+    font-size: 100px;
+    text-align: center;
+    color: rgba(0,0,0,0.5);
+}
+
+.form__content--item {
+    font-size: 30px;
+    text-align: center;
+    color: #996633;
+}

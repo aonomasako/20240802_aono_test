@@ -1,0 +1,22 @@
+.form__content--item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.input-group {
+    margin-right: 5px;
+}
+
+.form__botton {
+    color: #996633;
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    max-width: 1230px;
+}
